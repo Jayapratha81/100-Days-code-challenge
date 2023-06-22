@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class SumCombinations 
+public class Sum 
 {
     public static void main(String[] args) 
     {
