@@ -2,8 +2,10 @@
 
 import java.util.Scanner;
 
-public class SumCombinations {
-    public static void main(String[] args) {
+public class SumCombinations 
+{
+    public static void main(String[] args) 
+    {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the first number: ");
